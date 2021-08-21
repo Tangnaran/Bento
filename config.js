@@ -86,7 +86,7 @@ const CONFIG = {
     firstList: [
       {
         name: 'Pa estorar!',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=gKlEpAtRKVs',
       },
       {
         name: 'Clássica',
