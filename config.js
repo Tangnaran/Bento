@@ -85,15 +85,15 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
+        name: 'Inspiração',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Classic',
+        name: 'Clássica',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Oldies',
+        name: 'Das antiga',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
