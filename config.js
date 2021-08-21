@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Vai dormir!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '0a6f20d3b31418b2bad3fcbc2461ae51',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
   weatherLatitude: '-8.052240',
